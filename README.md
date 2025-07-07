@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat-square&logo=ant-design&logoColor=white" />
   <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/Radix_UI-black?style=flat-square&logo=radix-ui&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Query-ff4154?style=flat-square&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </p>
