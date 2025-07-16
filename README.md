@@ -23,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" alt="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="36" alt="NPM" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="36" alt="Vite" />
+  <img src="https://img.shields.io/badge/React_Bits-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
 <p align="center">
